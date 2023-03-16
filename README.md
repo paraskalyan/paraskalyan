@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paraskalyan
-- 👀 I’m interested in Software Development, Full Stack development and ML
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Full Stack development and ML
+- 🌱 I’m currently learning React and Deep Learning
 - 📫 Reach me via email - paraskalyan20@gmail.com
 
 <!---
